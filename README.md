@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there my name is Juan Genova👋
 
+                   FULL STACK STUDENT
 <!--
 **JuanG-live/JuanG-live** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
