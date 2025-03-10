@@ -1,6 +1,5 @@
 # Hi, my name is Juan Genova!
 ## Full Stack Student
-<img src="https://talently.tech/blog/wp-content/uploads/2022/03/ramas-de-la-programacion-scaled.jpg" style="max-width: 100%;"></a>
 <h3 align="center">A passionate full Stack developer student from Argentina.</h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
