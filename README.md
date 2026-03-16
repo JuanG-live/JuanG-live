@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Juan Genova
 
 ### 🇦🇷 From Argentina, currently living in Dublin 🇮🇪  
-📚 Full Stack Dev Student | 🔍 QA Trainee | ☕ Barista by day  
+📚 Full Stack Dev Student | 🔍 QA Junior | ☕ Barista by day  
 🥁 Musician | 💻 Always building stuff | ✈️ Flight deals hunter
 
 ---
